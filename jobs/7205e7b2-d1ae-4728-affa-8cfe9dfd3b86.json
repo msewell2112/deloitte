@@ -19,7 +19,7 @@
     }, {
       "id" : "801165ff-4c95-4774-9f09-a7a0523a5bb0",
       "ordinal" : 2,
-      "value" : "ignition",
+      "value" : "9LMv1B6SV6Q1s+Foqucflg==",
       "desc" : "Password to login to ftp",
       "name" : "password",
       "valueType" : 0,
@@ -73,15 +73,13 @@
       "domain" : {
         "id" : "83123a60-5ef0-4523-a205-d07254e74edd",
         "rootPath" : "/Users/msewell/Desktop/transform/deloitte",
-        "privateKey" : "1d5c6d0e-2f97-4b62-9185-7fcea8a609f5",
         "name" : "Deloitte",
         "timeZone" : "America/New_York",
         "applicationURL" : "http://demo.ignitiontransform.com",
         "awsRegion" : "us-east-1",
         "environments" : [ "Staging", "Production" ],
-        "created" : [ 1970, 1, 18, 14, 19, 5, 459000000 ],
-        "sourceControlProvider" : "https://api.github.com/repos/msewell2112/deloitte",
-        "sourceControlUser" : "8da3ba6a836a109f24c86ff1b420261bb73f2a12"
+        "updated" : null,
+        "created" : [ 1970, 1, 18, 14, 19, 5, 459000000 ]
       },
       "version" : 26,
       "updated" : [ 2018, 3, 8, 13, 48, 16, 974000000 ],
@@ -150,15 +148,13 @@
       "domain" : {
         "id" : "83123a60-5ef0-4523-a205-d07254e74edd",
         "rootPath" : "/Users/msewell/Desktop/transform/deloitte",
-        "privateKey" : "1d5c6d0e-2f97-4b62-9185-7fcea8a609f5",
         "name" : "Deloitte",
         "timeZone" : "America/New_York",
         "applicationURL" : "http://demo.ignitiontransform.com",
         "awsRegion" : "us-east-1",
         "environments" : [ "Staging", "Production" ],
-        "created" : [ 1970, 1, 18, 14, 19, 5, 459000000 ],
-        "sourceControlProvider" : "https://api.github.com/repos/msewell2112/deloitte",
-        "sourceControlUser" : "8da3ba6a836a109f24c86ff1b420261bb73f2a12"
+        "updated" : null,
+        "created" : [ 1970, 1, 18, 14, 19, 5, 459000000 ]
       },
       "version" : 26,
       "updated" : [ 2018, 3, 8, 13, 48, 16, 974000000 ],
@@ -205,15 +201,13 @@
       "domain" : {
         "id" : "83123a60-5ef0-4523-a205-d07254e74edd",
         "rootPath" : "/Users/msewell/Desktop/transform/deloitte",
-        "privateKey" : "1d5c6d0e-2f97-4b62-9185-7fcea8a609f5",
         "name" : "Deloitte",
         "timeZone" : "America/New_York",
         "applicationURL" : "http://demo.ignitiontransform.com",
         "awsRegion" : "us-east-1",
         "environments" : [ "Staging", "Production" ],
-        "created" : [ 1970, 1, 18, 14, 19, 5, 459000000 ],
-        "sourceControlProvider" : "https://api.github.com/repos/msewell2112/deloitte",
-        "sourceControlUser" : "8da3ba6a836a109f24c86ff1b420261bb73f2a12"
+        "updated" : null,
+        "created" : [ 1970, 1, 18, 14, 19, 5, 459000000 ]
       },
       "version" : 26,
       "updated" : [ 2018, 3, 8, 13, 48, 16, 974000000 ],
@@ -242,15 +236,13 @@
   "domain" : {
     "id" : "83123a60-5ef0-4523-a205-d07254e74edd",
     "rootPath" : "/Users/msewell/Desktop/transform/deloitte",
-    "privateKey" : "1d5c6d0e-2f97-4b62-9185-7fcea8a609f5",
     "name" : "Deloitte",
     "timeZone" : "America/New_York",
     "applicationURL" : "http://demo.ignitiontransform.com",
     "awsRegion" : "us-east-1",
     "environments" : [ "Staging", "Production" ],
-    "created" : [ 1970, 1, 18, 14, 19, 5, 459000000 ],
-    "sourceControlProvider" : "https://api.github.com/repos/msewell2112/deloitte",
-    "sourceControlUser" : "8da3ba6a836a109f24c86ff1b420261bb73f2a12"
+    "updated" : null,
+    "created" : [ 1970, 1, 18, 14, 19, 5, 459000000 ]
   },
   "version" : 26,
   "updated" : [ 2018, 3, 8, 13, 48, 16, 974000000 ],
