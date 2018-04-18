@@ -1,6 +1,6 @@
 {
   "id" : "8d1326b5-e926-44fb-b361-1dbcadc542ee",
-  "name" : "global",
+  "name" : "global-Test2",
   "desc" : "Global Template",
   "resourceType" : "Template",
   "source" : "<#macro inc map key>   \n  <#if map[key]?? > \n    <${key}>${map[key]}</${key}>    \n  </#if> \n</#macro>",
@@ -17,7 +17,7 @@
   "displayValue" : "<#macro inc map key>   \n  <#if map[key]?? > \n    <${key}>${map[key]}</${key}>    \n  </#if> \n</#macro>\n",
   "environment" : "Staging",
   "created" : [ 2018, 3, 8, 8, 45, 17, 247000000 ],
-  "updated" : [ 2018, 3, 8, 8, 45, 25, 13000000 ],
-  "version" : 2,
+  "updated" : [ 2018, 4, 18, 9, 11, 33, 888000000 ],
+  "version" : 3,
   "folder" : { }
 }
